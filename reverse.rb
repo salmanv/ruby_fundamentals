@@ -1,0 +1,1 @@
+puts "nocab yknuhc".reverse
